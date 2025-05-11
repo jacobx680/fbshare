@@ -1,5 +1,5 @@
 # fbshare
-PINDUTIN MO LANG YUNG STAR SA TAAS MASAYA NA AKO
+PNDUTIN MO LANG YUNG STAR SA TAAS MASAYA NA AKO
 
 
 ## Installation
@@ -9,7 +9,7 @@ pkg install python;pkg install git;pip install rich requests;pip install aiohttp
 type mo lang ng type *'Y'* tapos enter pag huminto.
 pag tapos na clone mo na repo 🤣
 ```shell
-git clone https://github.com/christhenoob13/fbshare.git;cd fbshare
+git clone jsjssjsjns fbshare
 ```
 
 then run mo na yung code
